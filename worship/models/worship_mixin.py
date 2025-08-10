@@ -5,7 +5,6 @@ from odoo import fields, models
 
 
 class WorshipMixin(models.AbstractModel):
-
     _name = "worship.mixin"
 
     worship_related = fields.Boolean(
