@@ -1,15 +1,15 @@
 
-[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/vertical-worship&target_branch=16.0)
-[![Pre-commit Status](https://github.com/OCA/vertical-worship/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/vertical-worship/actions/workflows/pre-commit.yml?query=branch%3A16.0)
-[![Build Status](https://github.com/OCA/vertical-worship/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/vertical-worship/actions/workflows/test.yml?query=branch%3A16.0)
-[![codecov](https://codecov.io/gh/OCA/vertical-worship/branch/16.0/graph/badge.svg)](https://codecov.io/gh/OCA/vertical-worship)
-[![Translation Status](https://translation.odoo-community.org/widgets/vertical-worship-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/vertical-worship-16-0/?utm_source=widget)
+[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/vertical-worship&target_branch=18.0)
+[![Pre-commit Status](https://github.com/OCA/vertical-worship/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/OCA/vertical-worship/actions/workflows/pre-commit.yml?query=branch%3A18.0)
+[![Build Status](https://github.com/OCA/vertical-worship/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/OCA/vertical-worship/actions/workflows/test.yml?query=branch%3A18.0)
+[![codecov](https://codecov.io/gh/OCA/vertical-worship/branch/18.0/graph/badge.svg)](https://codecov.io/gh/OCA/vertical-worship)
+[![Translation Status](https://translation.odoo-community.org/widgets/vertical-worship-18-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/vertical-worship-18-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
 
-# Addons to manage Worhsip activities
+# Vertical Worhsip Management
 
-None
+Worship Management
 
 <!-- /!\ do not modify below this line -->
 
