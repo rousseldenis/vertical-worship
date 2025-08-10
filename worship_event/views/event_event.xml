@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2019 Denis Roussel
+     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
+<odoo>
+
+    <record model="ir.actions.act_window" id="event_event_act_window">
+        <field name="name">Events</field>
+        <field name="res_model">event.event</field>
+        <field name="view_mode">kanban,calendar,list,form</field>
+        <field name="domain">[('worship_related', '=', True)]</field>
+        <field name="context" eval="{'default_worship_related':True}" />
+    </record>
+
+    <record model="ir.ui.menu" id="event_event_menu">
+        <field name="name">Events</field>
+        <field name="parent_id" ref="worship.worship_menu_root" />
+        <field name="action" ref="event_event_act_window" />
+        <field name="sequence" eval="16" />
+    </record>
+
+</odoo>

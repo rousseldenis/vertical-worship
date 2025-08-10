@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Copyright 2019 Denis Roussel
+     License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl). -->
+<odoo>
+
+    <menuitem
+        id="worship_menu_root"
+        name="Worship"
+        web_icon="worship,static/description/icon.png"
+        active="True"
+        sequence="8"
+    />
+     <record model="ir.ui.menu" id="worship_settings">
+        <field name="name">Settings</field>
+        <field name="parent_id" ref="worship.worship_menu_root" />
+        <field name="sequence" eval="500" />
+    </record>
+</odoo>
