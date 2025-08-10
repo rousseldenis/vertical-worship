@@ -6,7 +6,7 @@
     <record model="ir.actions.act_window" id="event_event_act_window">
         <field name="name">Events</field>
         <field name="res_model">event.event</field>
-        <field name="view_mode">kanban,calendar,tree,form</field>
+        <field name="view_mode">kanban,calendar,list,form</field>
         <field name="domain">[('worship_related', '=', True)]</field>
         <field name="context" eval="{'default_worship_related':True}" />
     </record>

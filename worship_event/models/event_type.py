@@ -5,5 +5,4 @@ from odoo import models
 
 
 class EventType(models.Model):
-
     _inherit = "event.type"

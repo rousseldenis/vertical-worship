@@ -5,6 +5,5 @@ from odoo import models
 
 
 class EventEvent(models.Model):
-
     _name = "event.event"
     _inherit = ["event.event", "worship.mixin"]
